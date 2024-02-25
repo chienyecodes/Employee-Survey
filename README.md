@@ -13,7 +13,7 @@ The following Power BI skills were incorporated-
 - DAX
 - Conditional Columns
 - Filters
-# Slicers
+- Slicers
 
 ## Data Cleaning
 
