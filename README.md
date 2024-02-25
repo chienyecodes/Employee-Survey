@@ -30,7 +30,7 @@ EDA involved exploring the survey results to answer key questions, such as:
 - Are there any patterns or trends by department or role?
 - What steps might an entrepreneur take to improve employee satisfaction based on the survey results?
 
-![](Employee_Survey_Dashboard.png)
+![](Employee_Survey_Dashboard_2.png)
 
 
 ## Results /Findings
