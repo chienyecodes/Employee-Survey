@@ -1,4 +1,5 @@
 # Employee-Survey
+
 ## Introduction
 The Employee Survey Responses are actual responses from an employee engagement survey conducted by Pierce County WA and completed voluntarily by government employees.
 
@@ -30,7 +31,8 @@ EDA involved exploring the survey results to answer key questions, such as:
 - Are there any patterns or trends by department or role?
 - What steps might an entrepreneur take to improve employee satisfaction based on the survey results?
 
-![](Employee_Survey_Dashboard_2.png)
+![image](https://github.com/chienyecodes/Employee-Survey/assets/159945438/57530349-1a7e-44ac-9287-
+
 
 
 ## Results /Findings
